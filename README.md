@@ -1,4 +1,4 @@
-# 🎮 Trivia Battle — Real-Time Multiplayer Trivia Game
+#  Trivia Battle — Real-Time Multiplayer Trivia Game
 
 A full-stack multiplayer trivia game built with React, Node.js, and Socket.io.
 
